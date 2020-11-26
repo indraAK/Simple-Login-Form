@@ -11,12 +11,12 @@ Versi Desktop
 <br>
 ![Design versi desktop untuk tampilan form login](./img/desktop-preview.png)
 
- <h3>Versi Tablet</h3>
+ Versi Tablet
 <br>
 <br>
 ![Design versi tablet untuk tampilan form login](./img/ipad-preview.png)
 
-<h3>Versi Mobile</h3>
+Versi Mobile
 <br>
 <br>
 ![Design versi mobile untuk tampilan form login](./img/iphone-preview.png)
