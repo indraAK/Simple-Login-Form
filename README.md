@@ -12,8 +12,8 @@ Versi Desktop
 
  Versi Tablet
 <br>
-![Design versi tablet untuk tampilan form login](./img/tablet-preview.png)
+![Design versi tablet untuk tampilan form login](./img/ipad-preview.png)
 
 Versi Mobile
 <br>
-![Design versi mobile untuk tampilan form login](./img/mobile-preview.png)
+![Design versi mobile untuk tampilan form login](./img/iphone-preview.png)
