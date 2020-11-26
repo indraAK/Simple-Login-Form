@@ -6,14 +6,17 @@ Design Resources by [UI Design Daily](https://uidesigndaily.com/)
 
 # Preview 
 
-Versi Desktop
+<h3>Versi Desktop</h3>
+<br>
 <br>
 ![Design versi desktop untuk tampilan form login](./img/desktop-preview.png)
 
- Versi Tablet
+ <h3>Versi Tablet</h3>
+<br>
 <br>
 ![Design versi tablet untuk tampilan form login](./img/ipad-preview.png)
 
-Versi Mobile
+<h3>Versi Mobile</h3>
+<br>
 <br>
 ![Design versi mobile untuk tampilan form login](./img/iphone-preview.png)
