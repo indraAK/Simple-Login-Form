@@ -8,10 +8,12 @@ Design Resources by [UI Design Daily](https://uidesigndaily.com/)
 
 Versi Desktop
 <br>
-<img src="./img/desktop-preview.png" align="middle" width="500" >
+<img src="./img/desktop-preview.png" align="middle" width="700" >
 
  Versi Tablet
-![Design versi tablet untuk tampilan form login](./img/ipad-preview.png)
+<br>
+<img src="./img/ipad-preview.png" align="middle" width="700" >
 
 Versi Mobile
-![Design versi mobile untuk tampilan form login](./img/iphone-preview.png)
+<br>
+<img src="./img/iphone-preview.png" align="middle" width="700" >
