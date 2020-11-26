@@ -8,7 +8,7 @@ Design Resources by [UI Design Daily](https://uidesigndaily.com/)
 
 Versi Desktop
 <br>
-<img src="./img/desktop-preview.png" align="center" width="500" >
+<img src="./img/desktop-preview.png" align="middle" width="500" >
 
  Versi Tablet
 ![Design versi tablet untuk tampilan form login](./img/ipad-preview.png)
