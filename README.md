@@ -6,7 +6,7 @@ Design Resources by [UI Design Daily](https://uidesigndaily.com/)
 
 # Preview 
 
-<h3>Versi Desktop</h3>
+Versi Desktop
 <br>
 <br>
 ![Design versi desktop untuk tampilan form login](./img/desktop-preview.png)
